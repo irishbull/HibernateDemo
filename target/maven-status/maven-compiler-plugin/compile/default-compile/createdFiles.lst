@@ -1,0 +1,5 @@
+com\demo\hibernate\output\Main.class
+com\demo\hibernate\entity\Author.class
+com\demo\hibernate\entity\Book.class
+com\demo\hibernate\dao\BookDao.class
+com\demo\hibernate\utility\HibernateUtil.class
